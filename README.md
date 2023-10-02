@@ -11,7 +11,7 @@
 - all problems run from the main class by instantiating the problem class
 
 ### Note:
-- from problem 3 another solution where I only add the needed code
+- another solution for problem 3 where I only add the needed code
   and nothing else can be found in `OtherSolution.StringCharcaters` class
 ---
 ### how to run:
