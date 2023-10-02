@@ -3,15 +3,17 @@
 - student number: 7219053
 ----
 ### project description:
-- **name:** Pre-Check task
+- **name:** Homework assignment 1
 - **java version:** Java\jdk-15.0.1
 ---
-### Project contains 3 classes:
-- Participant: contain following attributes: name and surname,
-  age, type of sport, list of awards
-- Award: contain following attributes: name, type
-- ParticipantUtil: static methods to work with an array of participants
+### Project contains 4 classes:
+- every problem has its own class
+- all problems run from the main class by instantiating the problem class
+
+### Note:
+- from problem 3 another solution where I only add the needed code
+  and nothing else can be found in `OtherSolution.StringCharcaters` class
 ---
-### Project contains 2 Enum classes:
-- SportType: contains types of sport: FOOTBALL, BASKETBALL
-- AwardType: contains types of awards: NATIONAL, INTERNATIONAL
+### how to run:
+- run the main method in the `Main` class
+- the results for all problems will be printed in the console
